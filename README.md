@@ -1,2 +1,1 @@
-# js-spread-vs-concat
-
+Basic performance comparison of spread and concat
